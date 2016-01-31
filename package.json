@@ -1,0 +1,25 @@
+{
+  "name": "cspc113-todo-node",
+  "version": "1.0.0",
+  "description": "my assignment for class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jajung12/cpsc13-todo-node.git"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/jajung12/cpsc13-todo-node/issues"
+  },
+  "homepage": "https://github.com/jajung12/cpsc13-todo-node#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.8.1"
+  }
+}
